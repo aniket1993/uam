@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.MuiBox-root{
+  padding: 10px !important;
+  background-color: #f2f2f2;
+}
+
+
+.multi-select {
+  --rmsc-main: #4285f4 !important;
+  --rmsc-hover: #f1f3f5 !important;
+  --rmsc-selected: #e2e6ea !important;
+  --rmsc-border: #ccc !important;
+  --rmsc-gray: #aaa !important;
+  --rmsc-bg: #fff !important;
+  --rmsc-p: 10px !important; /* Spacing */
+  --rmsc-radius: 4px !important; /* Radius */
+  --rmsc-h: 30px !important; /* Height */
+  text-align: left;
+}

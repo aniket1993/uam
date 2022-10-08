@@ -1,0 +1,14 @@
+.AccessMainDiv{
+    width: 100%;
+    height: auto;
+    /* background-color:#c5c5c5; */
+    border-radius: 0.25rem;
+}
+
+.padding-cls{
+    padding: 10px;
+}
+
+.PositionFixed{
+    position: fixed;
+}

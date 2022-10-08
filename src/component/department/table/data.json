@@ -1,0 +1,19 @@
+[
+    {
+        "dept_name": "Administration",
+        "dept_type": "Internal",
+        "description": "This profile will have all the permissions. Users with Administrator profile will   be able to view and manage all the data within the organization account by default.",
+        "emp_no":4,
+        "created_by":"Admin 19 Jan 2020 10:45:15",
+        "modified_by":"Admin 22 Feb 2020 10:50:30"
+    },
+    {
+        "dept_name": "HumanResource",
+        "dept_type": "Internal",
+        "description": "This profile will have all the permissions except administrative privileges.",
+        "emp_no":1,
+        "created_by":"Admin 19 Jan 2020 10:45:15",
+        "modified_by":"Admin 22 Feb 2020 10:50:30"
+    }
+    
+]

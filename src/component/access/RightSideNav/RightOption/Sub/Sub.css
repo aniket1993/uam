@@ -1,0 +1,20 @@
+.SubOption{
+    /* width: 300px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.Sub_P{
+    margin: 5px;
+}
+
+.ModuleTitle{
+    margin: 0;
+    text-align: left;
+    margin-left: 1rem;
+    font-weight: 500;
+    margin-bottom: 0;
+    padding: 10px;
+}

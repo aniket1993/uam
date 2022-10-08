@@ -1,0 +1,30 @@
+[
+    {
+        "user_id": "60134",
+        "user_name": "Soham Patil",
+        "user_mail": "soham@yashussunlimited.com",
+        "username":"soham_1",
+        "user_mobile_no":123456789,
+        "user_designation":"Manager",
+        "user_dept":"Operations",
+        "reporting_to":"Ami Sheth",
+        "user_role":"Manager",
+        "user_type":"Internal",
+        "user_created":"30 April,2020 20:09:41",
+        "user_edited":"31 April,2020 20:09:41"
+    },
+    {
+        "user_id": "60135",
+        "user_name": "Aniket Yadav",
+        "user_mail": "aniket@yashussunlimited.com",
+        "username":"aniket_1",
+        "user_mobile_no":123456789,
+        "user_designation":"Lead",
+        "user_dept":"Operations",
+        "reporting_to":"Ami Sheth",
+        "user_role":"Lead",
+        "user_type":"Internal",
+        "user_created":"30 April,2020 20:09:41",
+        "user_edited":"31 April,2020 20:09:41"
+    }   
+]

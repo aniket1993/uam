@@ -1,0 +1,33 @@
+.TopBar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.company_logo {
+  width: 170px;
+}
+
+.ellipse-shape {
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+  overflow: hidden;
+  height: 100%;
+  width: 560px;
+}
+
+.ellipse-shape:after {
+  content: "";
+  display: block;
+  width: 870px;
+  position: absolute;
+  top: -20px;
+  right: -300px;
+  height: 280px;
+  z-index: 1;
+  background-color:#d7c4fc;
+  border-radius: 50% 0 0 50%;
+}

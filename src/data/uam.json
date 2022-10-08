@@ -1,0 +1,50 @@
+[
+    {
+        "departmen_name": "Demo",
+        "module": [ 
+            {
+                "name":"sub-module-1",
+                "toggle":true,
+                "access":[
+                    "read","write"
+                ]
+            }
+        ]
+    },
+    {
+        "departmen_name": "Demo2",
+        "module": [ 
+            {
+                "name":"sub-module-2",
+                "toggle":true,
+                "access":[
+                    "read","write"
+                ]
+            }
+        ]
+    },
+    {
+        "departmen_name": "Demo3",
+        "module": [ 
+            {
+                "name":"sub-module-3",
+                "toggle":true,
+                "access":[
+                    "read","write"
+                ]
+            }
+        ]
+    },
+    {
+        "departmen_name": "Demo4",
+        "module": [ 
+            {
+                "name":"sub-module-4",
+                "toggle":true,
+                "access":[
+                    "read","write"
+                ]
+            }
+        ]
+    }
+]
